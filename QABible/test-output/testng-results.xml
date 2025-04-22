@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-08T21:40:39 IST" name="Suite" finished-at="2025-04-08T21:41:01 IST" duration-ms="22373">
+    <groups>
+    </groups>
+    <test started-at="2025-04-08T21:40:39 IST" name="Test" finished-at="2025-04-08T21:41:01 IST" duration-ms="22373">
+      <class name="Testscripts.QAbibletestcases">
+        <test-method is-config="true" signature="beforesuitemethod()[pri:0, instance:Testscripts.QAbibletestcases@2a798d51]" started-at="2025-04-08T21:40:39 IST" name="beforesuitemethod" finished-at="2025-04-08T21:40:39 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuitemethod -->
+        <test-method is-config="true" signature="beforeTestMethod()[pri:0, instance:Testscripts.QAbibletestcases@2a798d51]" started-at="2025-04-08T21:40:39 IST" name="beforeTestMethod" finished-at="2025-04-08T21:40:39 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method is-config="true" signature="beforeclassmethod()[pri:0, instance:Testscripts.QAbibletestcases@2a798d51]" started-at="2025-04-08T21:40:39 IST" name="beforeclassmethod" finished-at="2025-04-08T21:40:39 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclassmethod -->
+        <test-method is-config="true" signature="initialistation(java.lang.String)[pri:0, instance:Testscripts.QAbibletestcases@2a798d51]" started-at="2025-04-08T21:40:39 IST" name="initialistation" finished-at="2025-04-08T21:40:45 IST" duration-ms="5580" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialistation -->
+        <test-method signature="tc04()[pri:0, instance:Testscripts.QAbibletestcases@2a798d51]" started-at="2025-04-08T21:40:45 IST" name="tc04" finished-at="2025-04-08T21:41:01 IST" duration-ms="16722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc04 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Testscripts.QAbibletestcases@2a798d51]" started-at="2025-04-08T21:41:01 IST" name="close" finished-at="2025-04-08T21:41:01 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="afterclassmethod()[pri:0, instance:Testscripts.QAbibletestcases@2a798d51]" started-at="2025-04-08T21:41:01 IST" name="afterclassmethod" finished-at="2025-04-08T21:41:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclassmethod -->
+        <test-method is-config="true" signature="afterTestMethod()[pri:0, instance:Testscripts.QAbibletestcases@2a798d51]" started-at="2025-04-08T21:41:01 IST" name="afterTestMethod" finished-at="2025-04-08T21:41:01 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestMethod -->
+        <test-method is-config="true" signature="aftersuitemethod()[pri:0, instance:Testscripts.QAbibletestcases@2a798d51]" started-at="2025-04-08T21:41:02 IST" name="aftersuitemethod" finished-at="2025-04-08T21:41:02 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuitemethod -->
+      </class> <!-- Testscripts.QAbibletestcases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
